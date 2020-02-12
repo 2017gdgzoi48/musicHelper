@@ -8,6 +8,7 @@
 * you may wait for about **15** seconds and it will start download
 * if you see the player starting turning songs, it works
 * it just work in **music.163.com** and can't download paid songs
+* the filename shouldn't include '<','>','\','/',':','"','\*','?'
 
 ### statement
 use it for commercial purposes is **prohibitive** 
